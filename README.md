@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Seb. 👋🏼
+
+👨🏻‍💻 I'm your friendly neighbourhood advocate for all things Kotlin and Kotlin/JS!
+
+🤔 Got questions? Feel free to reach out via email, `sebastian at jetbrains dot com`.
 
 <!--
 **SebastianAigner/SebastianAigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
