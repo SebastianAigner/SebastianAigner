@@ -1,20 +1,17 @@
-### Hi! I'm Seb. 👋🏼
+![Sebastian Aigner Banner](https://raw.github.com/SebastianAigner/SebastianAigner/master/github.png)
 
-👨🏻‍💻 I'm your friendly neighbourhood advocate for all things Kotlin and Kotlin/JS!
-
-🤔 Got questions? Feel free to reach out via email, `sebastian at jetbrains dot com`.
-
-<!--
-**SebastianAigner/SebastianAigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img width="45" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> More about me
+```kotlin
+val SebastianAigner = developer {
+    about {
+        name = "Sebastian Aigner"
+        company = JetBrains
+        role = Developer_Advocate
+    }
+    tech("Kotlin Tutorials", "Kotlin/JS", "Ktor")
+    links {
+        twitter = "@sebi_io"
+        website = "sebi.io"
+    }
+}
+```
